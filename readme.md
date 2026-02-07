@@ -8,6 +8,9 @@ Uma implementação otimizada do clássico **Jogo da Vida de Conway** em Python 
 
 ---
 
+<img width="1135" height="666" alt="image" src="https://github.com/user-attachments/assets/acf6b093-7670-4d24-b786-bacd67c25dd6" />
+
+
 ## 📖 Sobre o Projeto
 
 Implementação do autômato celular desenvolvido pelo matemático **John Horton Conway** em 1970. Este projeto foi criado como ferramenta de estudos para compreender:
